@@ -7,7 +7,7 @@ class Skillshare(object):
         self,
         cookie,
         download_path=os.environ.get('FILE_PATH', './Skillshare'),
-        pk='SnBPYmIySjBtaDdkWG02angzeWlBYktiM2dHU1BIT2SVeHtLqONuBmN_KZVTj10NB8rEu9soOnYdJAwIDzhUCA%3D%3D',
+        pk='BCpkADawqM2OOcM6njnM7hf9EaK6lIFlqiXB0iWjqGWUQjU7R8965xUvIQNqdQbnDTLz0IAO7E6Ir2rIbXJtFdzrGtitoee0n1XXRliD-RH9A-svuvNW9qgo3Bh34HEZjXjG4Nml4iyz3KqF',
         brightcove_account_id=3695997568001,
     ):
         self.cookie = cookie.strip().strip('"')
